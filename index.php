@@ -76,7 +76,7 @@
 </form>
         </div>
         <footer>
-        &copy; Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quisquam temporibus suscipit sit in, necessitatibus fuga incidunt amet autem earum, quaerat pariatur explicabo? Voluptatem adipisci pariatur ullam in quo quam!
+        &copy; salut
         </footer>
     <body>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
