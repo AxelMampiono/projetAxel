@@ -24,8 +24,8 @@
 </div>
 <form>
   <div class="form-group">
-    <label for="exampleFormControlInput1">Email address</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+    <label for="exampleFormControlInput1">Adresse mail</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="adresse mail">
   </div>
   <div class="form-group">
     <label for="exampleFormControlSelect1">Example select</label>
@@ -54,7 +54,7 @@
 </form>
         </div>
         <footer>
-        &copy; Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quisquam temporibus suscipit sit in, necessitatibus fuga incidunt amet autem earum, quaerat pariatur explicabo? Voluptatem adipisci pariatur ullam in quo quam!
+        &copy; Autre chosz que du Lorem c'est mieux non?
         </footer>
     <body>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
